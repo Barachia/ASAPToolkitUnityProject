@@ -1,0 +1,3 @@
+[submodule "Assets/ASAPToolkitUnity"]
+	path = Assets/ASAPToolkitUnity
+    url = https://github.com/jankolkmeier/ASAPToolkitUnity.git
